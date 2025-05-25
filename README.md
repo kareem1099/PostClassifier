@@ -1,1 +1,1 @@
-First model fot Tammeny app recomendation System with it's customized dataset
+# First model for Tammeny app recommendation System with it's customized dataset.
